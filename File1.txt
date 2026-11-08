@@ -1,0 +1,7 @@
++ Double-click: extract and run
++ PAK support
++ Recently open, remember settings
++ Dropped on a title bar or not open - open container
+
+- Remember position/maximize, resize bar
++ Overwrite warning.

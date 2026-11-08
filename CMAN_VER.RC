@@ -1,0 +1,29 @@
+1 VERSIONINFO 
+FILEVERSION 1, 2, 0, 0
+PRODUCTVERSION 1, 2, 0, 0
+FILEOS VOS_DOS_WINDOWS16
+FILETYPE VFT_APP
+{
+ BLOCK "StringFileInfo"
+ {
+  BLOCK "040904E4"
+  {
+   VALUE "CompanyName", "Code Alliance\000"
+   VALUE "FileDescription", "Container Manager\000"
+   VALUE "FileVersion", "0.91\000"
+   VALUE "InternalName", "Container Manager\000"
+   VALUE "LegalCopyright", "Copyright\251 Alexei Novikov, 1997-8.\000"
+   VALUE "OriginalFilename", "ConMan.exe\000"
+   VALUE "ProductName", "Container Manager\000"
+   VALUE "ProductVersion", "0.9\000"
+   VALUE "ReleaseDate", "8/18/98\000"
+  }
+
+ }
+
+ BLOCK "VarFileInfo"
+ {
+  VALUE "Translation", 1033, 1252
+ }
+
+}

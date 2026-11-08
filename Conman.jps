@@ -1,0 +1,91 @@
+Helpfile Summary for E:\PROJECTS\OUTLAWS\HELP\CONMAN\ CONMAN
+
+
+===============*** Context Strings ***======================
+
+
+=== Format is: Title - ContextString (HelpContextID) ======
+ConMan                          - Hlp_ConMan               (10)*** Starting topic ***
+What is a Container             - Hlp_What_is              (20)
+ConMan Main Menu                - Hlp_ConMan_Main          (30)
+============================================================
+
+
+
+
+============================================================
+TOPIC NAME:   ConMan                                                                                                                                                                                                                                                          
+*** This is the starting topic for the helpfile. ***
+============================================================
+CONTEXT ID STRING:          Hlp_ConMan
+CONTEXT NUMBER:              10 
+Browse Sequence:            Browse:0005
+:Keywords:
+ConMan
+
+List of Jump Numbers
+(10)(11)
+---------------There are Jumps TO this topic from...---------
+
+---------------Jumps to OTHER topics -----------------------
+Hotspot text...                                             
+               <Destination topic title>                        
+------------------------------------------------------------
+What is a Container
+               <What is a Container>
+ConMan Main Menu
+               <ConMan Main Menu>
+=============================================================
+
+
+
+
+
+============================================================
+TOPIC NAME:   What is a Container                                                                                                                                                                                                                                             
+============================================================
+CONTEXT ID STRING:          Hlp_What_is
+CONTEXT NUMBER:              20 
+Browse Sequence:            Browse:0010
+:Keywords:
+What is a Container
+
+List of Jump Numbers
+
+---------------There are Jumps TO this topic from...---------
+<ConMan>
+
+
+---------------Jumps to OTHER topics -----------------------
+Hotspot text...                                             
+               <Destination topic title>                        
+------------------------------------------------------------
+=============================================================
+
+
+
+
+
+============================================================
+TOPIC NAME:   ConMan Main Menu                                                                                                                                                                                                                                                
+============================================================
+CONTEXT ID STRING:          Hlp_ConMan_Main
+CONTEXT NUMBER:              30 
+Browse Sequence:            Browse:0015
+:Keywords:
+ConMan Main Menu
+
+List of Jump Numbers
+
+---------------There are Jumps TO this topic from...---------
+<ConMan>
+
+
+---------------Jumps to OTHER topics -----------------------
+Hotspot text...                                             
+               <Destination topic title>                        
+------------------------------------------------------------
+=============================================================
+
+
+
